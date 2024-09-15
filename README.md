@@ -18,3 +18,12 @@ Technologies Used:
 CoinGecko API: Fetches real-time cryptocurrency market data with accurate price updates and trends.
 SDWebImageSwiftUI: Efficiently loads and caches cryptocurrency images, enhancing performance.
 UserDefaults: Saves user preferences like favorite coins for a personalized experience.
+
+
+API Used:
+https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&sparkline=true&price_change_percentage=1m
+
+External Package:
+https://github.com/SDWebImage/SDWebImageSwiftUI
+
+
